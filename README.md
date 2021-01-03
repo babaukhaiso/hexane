@@ -14,7 +14,7 @@ Light Theme in Red bar
 ![Light Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-light.png)
 
 Full Dark Theme!
-[Dark Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-dark.png)
+![Dark Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-dark.png)
 
 ---
 - Light or Dark Themes
